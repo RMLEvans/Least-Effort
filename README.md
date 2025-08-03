@@ -2,7 +2,7 @@
 
 (C) Copyright R M L Evans 2025
 
-A simple implementation of the methods described in the article 'A principle of "Least Effort" to describe the natural movements of animals'.
+An elementary implementation of the methods described in the article 'A principle of "Least Effort" to describe the natural movements of animals'.
 
 To model an animal with articulated joints, the user supplies the energy-related functions (such as power) defined in the article. The algorithm implements the variational principle described in the article by applying a standard library function for constrained minimization, in order to determine the animal's movement.
 
